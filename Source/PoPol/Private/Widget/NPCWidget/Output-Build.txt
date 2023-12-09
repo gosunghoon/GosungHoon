@@ -1,0 +1,9 @@
+Build started...
+1>------ Build started: Project: PoPol, Configuration: Development_Editor x64 ------
+1>Using bundled DotNet SDK version: 6.0.302
+1>Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" PoPolEditor Win64 Development -Project="D:\Unreal\PoPol\PoPol.uproject" -WaitMutex -FromMsBuild
+1>Log file: C:\Users\고성훈\AppData\Local\UnrealBuildTool\Log.txt
+1>Target is up to date
+1>Total execution time: 0.82 seconds
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 오전 2:34 and took 04.913 seconds ==========
